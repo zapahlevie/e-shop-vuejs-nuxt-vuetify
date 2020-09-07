@@ -1,0 +1,103 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "image": "/items/watch1.png",
+            "title": "Seiko Prospex Man SPB151J1",
+            "price": 18200000,
+            "rating": 3,
+            "reviews": 121,
+            "desc": "It’s time to take your accessorising game to the next level. Like jewellery for your watch, our innovative case cuffs can be clipped on for extra impact or easily removed on days when you’re feeling a less is more vibe. This pretty style combines a clean white dial and a soft grey lilac leather strap."
+        },
+        {
+            "id": 2,
+            "image": "/items/watch2.png",
+            "title": "Giordano Metropolitan GD-1161",
+            "price": 499000,
+            "rating": 3,
+            "reviews": 28,
+            "desc": "It’s time to take your accessorising game to the next level. Like jewellery for your watch, our innovative case cuffs can be clipped on for extra impact or easily removed on days when you’re feeling a less is more vibe. This pretty style combines a clean white dial and a soft grey lilac leather strap."
+        },
+        {
+            "id": 3,
+            "image": "/items/watch3.png",
+            "title": "TISSOT Gentleman T127.410",
+            "price": 4160000,
+            "rating": 4,
+            "reviews": 98,
+            "desc": "It’s time to take your accessorising game to the next level. Like jewellery for your watch, our innovative case cuffs can be clipped on for extra impact or easily removed on days when you’re feeling a less is more vibe. This pretty style combines a clean white dial and a soft grey lilac leather strap."
+        },
+        {
+            "id": 4,
+            "image": "/items/watch4.png",
+            "title": "Sketchers SR5127 Perfection",
+            "price": 600000,
+            "rating": 5,
+            "reviews": 4521,
+            "desc": "It’s time to take your accessorising game to the next level. Like jewellery for your watch, our innovative case cuffs can be clipped on for extra impact or easily removed on days when you’re feeling a less is more vibe. This pretty style combines a clean white dial and a soft grey lilac leather strap."
+        },
+        {
+            "id": 5,
+            "image": "/items/watch5.png",
+            "title": "Casio G-Shock Black Yellow",
+            "price": 2880000,
+            "rating": 5,
+            "reviews": 10,
+            "desc": "It’s time to take your accessorising game to the next level. Like jewellery for your watch, our innovative case cuffs can be clipped on for extra impact or easily removed on days when you’re feeling a less is more vibe. This pretty style combines a clean white dial and a soft grey lilac leather strap."
+        },
+        {
+            "id": 6,
+            "image": "/items/watch6.png",
+            "title": "Tissot Le locle T41.6.423.96",
+            "price": 8320000,
+            "rating": 4,
+            "reviews": 58,
+            "desc": "It’s time to take your accessorising game to the next level. Like jewellery for your watch, our innovative case cuffs can be clipped on for extra impact or easily removed on days when you’re feeling a less is more vibe. This pretty style combines a clean white dial and a soft grey lilac leather strap."
+        }
+    ],
+    "similarItems": [
+        {
+            "id": 4,
+            "image": "/items/watch4.png",
+            "title": "Sketchers SR5127 Perfection",
+            "price": 600000,
+            "rating": 5,
+            "reviews": 4521,
+            "desc": "It’s time to take your accessorising game to the next level. Like jewellery for your watch, our innovative case cuffs can be clipped on for extra impact or easily removed on days when you’re feeling a less is more vibe. This pretty style combines a clean white dial and a soft grey lilac leather strap."
+        },
+        {
+            "id": 5,
+            "image": "/items/watch5.png",
+            "title": "Casio G-Shock Black Yellow",
+            "price": 2880000,
+            "rating": 5,
+            "reviews": 10,
+            "desc": "It’s time to take your accessorising game to the next level. Like jewellery for your watch, our innovative case cuffs can be clipped on for extra impact or easily removed on days when you’re feeling a less is more vibe. This pretty style combines a clean white dial and a soft grey lilac leather strap."
+        },
+        {
+            "id": 6,
+            "image": "/items/watch6.png",
+            "title": "Tissot Le locle T41.6.423.96",
+            "price": 8320000,
+            "rating": 4,
+            "reviews": 58,
+            "desc": "It’s time to take your accessorising game to the next level. Like jewellery for your watch, our innovative case cuffs can be clipped on for extra impact or easily removed on days when you’re feeling a less is more vibe. This pretty style combines a clean white dial and a soft grey lilac leather strap."
+        }
+    ],
+    "reviews": [
+        {
+            "name": "Reza Pahlevi",
+            "date": "2020-09-03",
+            "rating": 5,
+            "profile": "/user.jpg",
+            "comment": "Overall good, comfortable to wear. The strap feels premium for everyday wear. Very stylist and modern model. Very satisfied. But unfortunately the colors are limited. But okay."
+        },
+        {
+            "name": "John Doe",
+            "date": "2020-08-26",
+            "rating": 3,
+            "profile": "/user.jpg",
+            "comment": "The functionality is good, but the style and colors are not very good. No problem still worth to buy."
+        }
+    ]
+}
